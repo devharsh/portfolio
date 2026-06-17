@@ -1,0 +1,8 @@
+# Local-only maintenance notes (never publish)
+*.local.md
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
